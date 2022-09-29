@@ -35,11 +35,11 @@ $r_update = "select * from"
       </div>
       <div class="form-floating mb-3 col-sm-3">
         <label for="exampleFormControlInput1" class="form-label"></label>
-        Email address<input type="email" class="form-control" id="exampleFormControlInput1" name= "email" placeholder="email" value="<?php echo $re[3] ?>">
+        Password<input type="password" class="form-control" id="exampleFormControlInput1" name= "password" placeholder="password" value="<?php echo $re[3] ?>">
       </div>
       <div class="form-floating mb-3 col-sm-3">
         <label for="exampleFormControlInput1" class="form-label"></label>
-        Password<input type="password" class="form-control" id="exampleFormControlInput1" name= "password" placeholder="email" value="<?php echo $re[4] ?>">
+        Email address<input type="email" class="form-control" id="exampleFormControlInput1" name= "email" placeholder="email" value="<?php echo $re[4] ?>">
       </div>
       <div class="form-floating mb-3 col-sm-3">
         <label for="exampleFormControlTextarea1" class="form-label"></label>
