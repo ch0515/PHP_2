@@ -35,6 +35,7 @@ for($i = 0; $i < $count; $i++){
 
 // 3. 디비 접속 종료
 mysqli_close($conn);
+
 ?>
 </table>
 <div style="margin-left:500px">

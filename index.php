@@ -39,5 +39,5 @@ mysqli_close($conn);
 ?>
 </table>
 <div style="margin-left:500px">
-<a href="write.html" class="btn btn-success">Write</a>
+<a href="check.php" class="btn btn-success">Write</a>
 </div>
